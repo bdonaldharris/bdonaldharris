@@ -73,7 +73,7 @@ Code is the medium. Community is the mission.
 
 ## 📡 Find Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bdonaldharris)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/briandharris)
 [![Website](https://img.shields.io/badge/Website-111827?style=flat-square&logoColor=white)](https://notablebit.com)
 [![Podcast](https://img.shields.io/badge/Podcast-8B5CF6?style=flat-square&logoColor=white)](https://rss.com/podcasts/notable-bit-black-in-tech)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bdonaldharris@notablebit.com)
