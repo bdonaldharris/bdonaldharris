@@ -28,7 +28,6 @@ A community-powered platform combining:
 | **[BitVoices Network](https://bitvoices.network)** | Founder / Lead Engineer | Builder-first platform and community for Black technologists — platform, media, hubs, and product storytelling in one place. |
 | **[NotableBIT](https://notablebit.com)** | Founder / CEO | Technology company focused on software, media, and community products that serve Black builders and entrepreneurs. |
 | **[BuildTrace](https://build-trace.vercel.app/)** | Creator | 🏆 Hackathon-winning AI-assisted development storytelling tool — captures and narrates the journey of building software, not just the output. |
-| **[BBM Solutions](https://bbmsolutions.com)** | Managing Partner, Technology & Delivery | Technology strategy and delivery firm. |
 
 ---
 
