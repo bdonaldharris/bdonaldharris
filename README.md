@@ -27,7 +27,7 @@ A community-powered platform combining:
 |---|---|---|
 | **[BitVoices Network](https://bitvoices.network)** | Founder / Lead Engineer | Builder-first platform and community for Black technologists — platform, media, hubs, and product storytelling in one place. |
 | **[NotableBIT](https://notablebit.com)** | Founder / CEO | Technology company focused on software, media, and community products that serve Black builders and entrepreneurs. |
-| **BuildTrace** | Creator | 🏆 Hackathon-winning AI-assisted development storytelling tool — captures and narrates the journey of building software, not just the output. |
+| **[BuildTrace](https://build-trace.vercel.app/)** | Creator | 🏆 Hackathon-winning AI-assisted development storytelling tool — captures and narrates the journey of building software, not just the output. |
 | **[BBM Solutions](https://bbmsolutions.com)** | Managing Partner, Technology & Delivery | Technology strategy and delivery firm. |
 
 ---
@@ -74,9 +74,9 @@ Code is the medium. Community is the mission.
 ## 📡 Find Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bdonaldharris)
-[![Website](https://img.shields.io/badge/Website-notablebit.com-111827?style=flat-square&logoColor=white)](https://notablebit.com)
-[![Podcast](https://img.shields.io/badge/Podcast-BitVoices_Network-8B5CF6?style=flat-square&logoColor=white)](https://bitvoices.network)
-[![Email](https://img.shields.io/badge/Email-hello%40notablebit.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@notablebit.com)
+[![Website](https://img.shields.io/badge/Website-111827?style=flat-square&logoColor=white)](https://notablebit.com)
+[![Podcast](https://img.shields.io/badge/Podcast-8B5CF6?style=flat-square&logoColor=white)](https://rss.com/podcasts/notable-bit-black-in-tech)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bdonaldharris@notablebit.com)
 
 ---
 
