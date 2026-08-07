@@ -63,5 +63,6 @@ I write and speak about software craftsmanship, AI, organizational intelligence,
 
 - 🌐 Website — https://www.bdonaldharris.com
 - 💼 LinkedIn — https://www.linkedin.com/in/briandharris
-- 🧭 HindSite — https://hindsite.pro
+- 🌐 NotableBIT — https://www.notablebit.com
 - 🌎 BitVoices Network — https://bitvoices.network
+- 🧭 HindSite — https://hindsite.pro
