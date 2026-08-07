@@ -48,6 +48,13 @@ Community is culture—not features.
 
 I write and speak about software craftsmanship, AI, organizational intelligence, and building technology with intention.
 
+### Latest Essays
+
+<!-- LATEST-ESSAYS:START -->
+<!-- LATEST-ESSAYS:END -->
+
+[Read more essays →](https://bdonaldharris.com/essays)
+
 ---
 
 ## Connect
