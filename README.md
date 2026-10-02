@@ -51,8 +51,8 @@ I write and speak about software craftsmanship, AI, organizational intelligence,
 ### Latest Essays
 
 <!-- LATEST-ESSAYS:START -->
-- [The Myth of General AI Instructions](https://bdonaldharris.com/essays/the-myth-of-general-ai-instructions)
-- [Listen to the Software: Building With AI as an Act of Discovery](https://bdonaldharris.com/essays/listen-to-the-software-building-with-ai-as-an-act-of-discovery)
+- [After 40-Plus Years Together, I Met Someone Else](https://bdonaldharris.com/essays/after-40-plus-years-together)
+- [AI Gate](https://bdonaldharris.com/essays/ai-gate)
 <!-- LATEST-ESSAYS:END -->
 
 [Read more essays →](https://bdonaldharris.com/essays)
