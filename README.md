@@ -61,8 +61,8 @@ I write and speak about software craftsmanship, AI, organizational intelligence,
 ### Latest Essays
 
 <!-- LATEST-ESSAYS:START -->
+- [From Building with AI to Engineering with AI: My Journey Toward Builder Garage](https://bdonaldharris.com/essays/from-building-with-ai-to-engineering-with-ai)
 - [After 40-Plus Years Together, I Met Someone Else](https://bdonaldharris.com/essays/after-40-plus-years-together)
-- [AI Gate](https://bdonaldharris.com/essays/ai-gate)
 <!-- LATEST-ESSAYS:END -->
 
 [Read more essays →](https://bdonaldharris.com/essays)
